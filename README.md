@@ -1,3 +1,3 @@
 # TestGitRepository
 
-Test repositury 123
+Test repository 123
